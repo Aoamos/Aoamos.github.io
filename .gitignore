@@ -1,0 +1,5 @@
+# Avoid accidental Sketch file upload 
+*.sketch
+*.xd
+*.fig
+.DS_Store
